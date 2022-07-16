@@ -1,0 +1,2 @@
+# KanzenTexChap03
+テキスト「PYTHON完全入門」のうちスクリプトの実習をJupyterで行う。なお、ブログラムの実習は将来的な社内業務の自動化に備えてVisualStudioCodeで行う。Chapter3 全ての基本になる文法を学ぶ
